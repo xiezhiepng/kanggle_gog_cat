@@ -1,11 +1,8 @@
-kanggle_dog_cat
-Introduction
+#kanggle_dog_cat
+##Introduction
+Kanggle Cat and Dog Competition:https://www.kaggle.com/c/dogs-vs-cats
 
-Contents
+### prerequisites
 
-
-
-
-prerequisites
-Python 3.6
-pytorch==0.4.1
+- Python 3.6
+- pytorch==0.4.1
